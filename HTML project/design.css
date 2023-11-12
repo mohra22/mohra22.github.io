@@ -1,0 +1,25 @@
+div{
+    background: #B3B3B3;
+    font-size: 150%;
+    text-align: center;
+    margin: 2px;
+    padding: 10px;
+}
+
+h2{
+    color: blue;
+}
+
+section{
+    width: 30%;
+    display: inline-block;
+    float: left;
+    margin-right: 2%;
+}
+
+footer{
+    clear: both;
+}
+img{
+    width: 125px;
+}
